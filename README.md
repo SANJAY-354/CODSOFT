@@ -1,9 +1,10 @@
-# C++ Internship Projects
+# 🧮 Simple Mathematical Calculator
 
-This repository contains the C++ mini-programs I developed during my internship.  
-Each task demonstrates fundamental C++ programming concepts through interactive applications.
+### Description
+A basic calculator written in C++ that performs arithmetic operations like addition, subtraction, multiplication, and division based on user input.
 
-# Tasks Included
-1. Number Guessing Game
-2. Simple Mathematical Calculator
-3. To-Do List Application
+### How to Run
+```bash
+g++ calculator.cpp -o calculator
+./calculator
+```
