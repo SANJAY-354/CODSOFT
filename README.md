@@ -1,9 +1,11 @@
-# C++ Internship Projects
+# 📝 To-Do List Application
 
-This repository contains the C++ mini-programs I developed during my internship.  
-Each task demonstrates fundamental C++ programming concepts through interactive applications.
+### Description
+A simple console-based task manager where users can add, view, and delete tasks.  
+The tasks are stored in a text file (`tasks.txt`) for persistence.
 
-# Tasks Included
-1. Number Guessing Game
-2. Simple Mathematical Calculator
-3. To-Do List Application
+### How to Run
+```bash
+g++ todo_list.cpp -o todo_list
+./todo_list
+```
