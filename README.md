@@ -1,9 +1,10 @@
-# C++ Internship Projects
+# 🎯 Number Guessing Game
 
-This repository contains the C++ mini-programs I developed during my internship.  
-Each task demonstrates fundamental C++ programming concepts through interactive applications.
+### Description
+A simple C++ console game where the computer randomly selects a number between 1 and 100, and the user tries to guess it with hints provided.
 
-# Tasks Included
-1. Number Guessing Game
-2. Simple Mathematical Calculator
-3. To-Do List Application
+### How to Run
+```bash
+g++ guess_number.cpp -o guess_number
+./guess_number
+```
