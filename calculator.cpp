@@ -5,7 +5,7 @@ int main() {
     double num1, num2;
     char op;
 
-    cout << "🧮 Simple Mathematical Calculator" << endl;
+    cout << " Simple Mathematical Calculator" << endl;
     cout << "Enter first number: ";
     cin >> num1;
     cout << "Enter an operator (+, -, *, /): ";
