@@ -1,6 +1,6 @@
 # C++ Internship Projects
 
-This repository contains the C++ mini-programs I developed during my internship.  
+This repository contains the C++ programs I developed during my internship.  
 Each task demonstrates fundamental C++ programming concepts through interactive applications.
 
 # Tasks Included
